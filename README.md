@@ -1,6 +1,8 @@
 # Airline-website
 Airline website for checking tickets, airports from the database
+
 Demo video: https://youtu.be/-vIBtxDr_O8
+
 ![Screenshot 2022-08-10 022042](https://user-images.githubusercontent.com/90983207/183840966-dddac5de-7b20-48f2-bb4e-7a645474704e.png)
 ![Screenshot 2022-08-10 022119](https://user-images.githubusercontent.com/90983207/183840980-891f319b-5d5e-4f7c-ba0e-94ae41bd188e.png)
 ![Screenshot 2022-08-10 022137](https://user-images.githubusercontent.com/90983207/183840992-4aae20e2-48c8-4ccd-a29a-28d49cbff631.png)
